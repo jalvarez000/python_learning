@@ -1,4 +1,4 @@
-# 🐍 30 Days of Python
+# 🐍 Python
 
 ## 🇪🇸 Español
 
@@ -7,7 +7,7 @@ Este repositorio documenta mi progreso mientras construyo una base sólida en pr
 
 ### 📅 Sobre el reto
 
-Estoy siguiendo un desafío de 30 días para aprender y practicar Python diariamente.
+Estoy siguiendo un desafío para aprender y practicar Python diariamente.
 Cada día incluye ejercicios, notas y pequeños proyectos.
 
 ### 🧠 Qué estoy aprendiendo
@@ -43,7 +43,7 @@ This repository documents my progress as I build a strong programming foundation
 
 ### 📅 About the challenge
 
-I am following a 30-day challenge to learn and practice Python every day.
+I am following a challenge to learn and practice Python every day.
 Each day includes exercises, notes, and small projects.
 
 ### 🧠 What I'm learning
